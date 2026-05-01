@@ -1,11 +1,16 @@
 # Animated Typing Text Effect
-CodePlayer Animated Typing Text Effect project. Made with HTML, CSS, JavaScript, and jQuery.
+Text will appear like it is being typed on screen
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- jQuery
 
 ## Instructions
-Clone repo or download zip file. Open index.html file in your browser to see the message.
-
-## Contributions
-This code is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone repo or download zip file. 
+2. Open index.html file in your browser to see the message.
+3. You will see text starting to appear on page. When it is finished, you will see a message in the center of your page.
 
 ## Acknowledgements
 * TheCodePlayer.com
